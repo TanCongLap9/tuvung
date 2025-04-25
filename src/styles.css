@@ -1,0 +1,11 @@
+html,
+body,
+#app {
+  height: 100%;
+}
+input {
+  width: 50px;
+}
+* {
+  touch-action: none;
+}
