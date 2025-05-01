@@ -1,5 +1,6 @@
-# TuVung
-Trang web ôn từ vựng tiếng Trung, Hàn, Nhật có tập viết.
+# HanKan-Dict
+
+Chinese, Korean, Japanese dictionary with writing practice.
 
 ## Demo
 https://5zh4cw-5173.csb.app
